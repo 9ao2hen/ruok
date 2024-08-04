@@ -1,0 +1,4 @@
+com.mervyn.ruok.framework.idempotent.config.RuokIdempotentConfiguration
+com.mervyn.ruok.framework.lock4j.config.RuokLock4jConfiguration
+com.mervyn.ruok.framework.ratelimiter.config.RuokRateLimiterConfiguration
+com.mervyn.ruok.framework.signature.config.RuokApiSignatureAutoConfiguration

@@ -1,0 +1,6 @@
+com.mervyn.ruok.framework.apilog.config.RuokApiLogAutoConfiguration
+com.mervyn.ruok.framework.jackson.config.RuokJacksonAutoConfiguration
+com.mervyn.ruok.framework.swagger.config.RuokSwaggerAutoConfiguration
+com.mervyn.ruok.framework.web.config.RuokWebAutoConfiguration
+com.mervyn.ruok.framework.xss.config.RuokXssAutoConfiguration
+com.mervyn.ruok.framework.banner.config.RuokBannerAutoConfiguration

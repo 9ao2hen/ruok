@@ -1,0 +1,3 @@
+com.mervyn.ruok.framework.security.config.RuokSecurityAutoConfiguration
+com.mervyn.ruok.framework.security.config.RuokWebSecurityConfigurerAdapter
+com.mervyn.ruok.framework.operatelog.config.RuokOperateLogConfiguration

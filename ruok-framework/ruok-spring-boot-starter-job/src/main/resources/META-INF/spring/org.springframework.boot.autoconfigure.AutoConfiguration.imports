@@ -1,0 +1,2 @@
+com.mervyn.ruok.framework.quartz.config.RuokQuartzAutoConfiguration
+com.mervyn.ruok.framework.quartz.config.RuokAsyncAutoConfiguration

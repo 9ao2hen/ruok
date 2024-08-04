@@ -1,0 +1,3 @@
+com.mervyn.ruok.framework.datasource.config.RuokDataSourceAutoConfiguration
+com.mervyn.ruok.framework.mybatis.config.RuokMybatisAutoConfiguration
+com.mervyn.ruok.framework.translate.config.RuokTranslateAutoConfiguration
