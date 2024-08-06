@@ -3185,11 +3185,6 @@ CREATE TABLE `system_sms_channel` (
   PRIMARY KEY (`id`) USING BTREE
 ) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='短信渠道';
 
--- ----------------------------
--- Records of system_sms_channel
--- ----------------------------
-BEGIN;
-COMMIT;
 
 -- ----------------------------
 -- Table structure for system_sms_code
